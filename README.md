@@ -1,2 +1,3 @@
 # Empty-hx
-A template project for Haxe (SWF/JS)
+
+Download as zip, unzip contents to your new project's directory, edit ```buildSwf.hxml``` and enter a working ADL path, enjoy.
